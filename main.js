@@ -495,7 +495,7 @@ function buildModeToggle() {
 /* shop ui data                                                         */
 /* ------------------------------------------------------------------ */
 
-const gameState = { coins: 3000 };
+const gameState = { coins: 30 };
 
 const shopData = {
   eggs: [
